@@ -17,3 +17,17 @@
 <p align="center">
   <img width="412" height="246" alt="image" src="https://github.com/user-attachments/assets/7e677ddc-e8b4-48d4-89c2-467705eb41c6" />
 </p>
+
+# Часть 3
+
+<p align="center">
+  <img width="3680" height="10496" alt="image" src="https://github.com/user-attachments/assets/b225a58b-2615-48cf-833f-bd72febc96ce" />
+</p>
+
+<p align="center">
+  <img width="429" height="240" alt="image" src="https://github.com/user-attachments/assets/5b37e3b0-72a4-4f22-8dc1-a25a29a1bed3" />
+</p>
+
+<p align="center">
+  <img width="503" height="326" alt="image" src="https://github.com/user-attachments/assets/041605cb-be41-4fb9-a3a2-6d078845e085" />
+</p>
